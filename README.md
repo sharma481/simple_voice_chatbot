@@ -6,7 +6,6 @@ use nodejs and openai and express and path and js
 Overview 🎤🤖
 A voice-enabled chatbot that allows users to interact with an AI assistant through natural speech. This full-stack application features a React frontend and Node.js/Express backend with speech recognition and synthesis capabilities.
 
-https://demo.gif Replace with your actual demo GIF
 
 Features ✨
 🎙️ Voice-to-text conversion for natural conversations
@@ -40,3 +39,5 @@ OpenAI API
 
 WebSocket (for real-time communication)
 
+Demo
+![Demo GIF](https://image/demo.mov your actual demo GIF.*
