@@ -36,8 +36,15 @@ Node.js
 Express.js
 
 OpenAI API
+<img width="1470" height="956" alt="Screenshot 2025-08-19 at 2 38 54 PM" src="https://github.com/user-attachments/assets/ee2a06df-c2fb-47c5-a194-0a81d48f764b" />
 
 WebSocket (for real-time communication)
 
-Demo
-![Demo GIF](https://image/demo.mov your actual demo GIF.*
+Demo<img width="1470" height="956" alt="Screenshot 2025-08-19 at 2 38 33 PM" src="https://github.com/user-attachments/assets/04719bc4-<img width="1470" height="956" alt="Screenshot 2025-08-19 at 2 39 16 PM" src="https://github.com/user-attachments/assets/b85d2e57-34e0-43c8-b284-1c6c175b5054" />
+eb84-49f7-95c4-1e76da385d62" />
+<img width="1470" height="956" alt="Screenshot 2025-08-19 at 2 39 03 PM" src="https://github.com/user-attachments/assets/27db5ff8-2383-470c-b252-d813b5979b4a" />
+
+![Demo GIF](https://image/demo.mov y<img width="1470" height="956" alt="Screenshot 2025-08-19 at 2 39 28 PM" src="https://github.com/user-attachments/assets/169e3e00-1e6d-4996-810b-067b81fb6ecd" />
+our actual demo GIF.*
+
+PROJECT DEMO
